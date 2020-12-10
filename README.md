@@ -38,7 +38,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Maksim GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimStseshanok&show_icons=true&hide_border=true&theme=ayu-mirage&hide=php" />
+<img align="left" alt="Maksim GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimStseshanok&show_icons=true&hide_border=true&theme=ayu-mirage&hide=php&layout=compact" />
 
 </details>
 
