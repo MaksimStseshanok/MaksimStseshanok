@@ -31,14 +31,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Maksim GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaksimStseshanok&show_icons=true&hide_border=true" />
+  <img align="left" alt="Maksim GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaksimStseshanok&show_icons=true&hide_border=true&theme=ayu-mirage" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Maksim GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimStseshanok" />
+<img align="left" alt="Maksim GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimStseshanok&show_icons=true&hide_border=true&theme=ayu-mirage&hide=php" />
 
 </details>
 
