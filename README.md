@@ -1,14 +1,47 @@
-### Hi there 👋, i'm Maksim Stseshanok
-#### I am  Frontend-developer / HTML coder
-
-I am looking for a company that is ready to accept a diligent developer with no work experience.
-
-Skills: JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+### Hello, I'm Maksim  👋
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MaksimStseshanok)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maksim-stseshanok/) 
+## I'm a Frontend-developer / HTML coder!
+- 🌱 I’m currently learning JS
+- 👯 I’m looking for a company that is ready to accept a diligent developer with no work experience.
+- 💬 Ask me about ... Anything
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimStseshanok&hide=php&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+### add me as a friend:
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
+
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Maksim GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaksimStseshanok&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Maksim GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimStseshanok" />
+
+</details>
+
+
+
+[linkedin]: https://www.linkedin.com/in/maksim-stseshanok/
