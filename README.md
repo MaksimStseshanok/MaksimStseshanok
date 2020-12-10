@@ -1,6 +1,5 @@
 ### Hi there 👋, i'm Maksim Stseshanok
 #### I am  Frontend-developer / HTML coder
-![I am  Frontend-developer / HTML coder]
 
 I am looking for a company that is ready to accept a diligent developer with no work experience.
 
